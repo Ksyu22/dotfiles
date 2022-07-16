@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ksyu.ha@hotmail.com
+	name = Oksana Mishchenko
